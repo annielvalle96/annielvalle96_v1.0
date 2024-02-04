@@ -32,7 +32,7 @@ export function Works () {
           <Filter setData={setData} setDataLength={setDataLength} jsonData={jsonData} />
           <Projects data={data} currentPage={currentPage} productsPerPage={productsPerPage} />
           <Pagination currentPage={currentPage} setCurrentPage={setCurrentPage} productsPerPage={productsPerPage} dataLength={dataLength} />
-          <Modal jsonData={jsonData} />
+          {/* <Modal jsonData={jsonData} /> */}
         </div>
       </div>
     </div>
