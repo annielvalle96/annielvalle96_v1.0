@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { Filter } from '../../components/filter/Filter.jsx'
 import { Pagination } from '../../components/pagination/Pagination.jsx'
 import jsonData from '../../assets/mock/data.js'
-import { Modal } from '../../components/modal/Modal.jsx'
+// import { Modal } from '../../components/modal/Modal.jsx'
 import { Projects } from '../../components/projects/Projects.jsx'
 
 export function Works () {
