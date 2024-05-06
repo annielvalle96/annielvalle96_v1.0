@@ -48,105 +48,80 @@
 	"Wo_Title2_2": "Works",
 
 	"Wo_Name0": "Sociopedia",
-	"Wo_Description0": "Social network with some typical characteristics of this type of applications; such as: authentication, following and unfollowing users, liking, making comments, etc.",
-	"Wo_Role0": "Full-Stack Project",
+	"Wo_Description0": "Sociopedia is a software that simulates some of the most important functionalities of a social network application. Typical functionalities such as user authentication, following or unfollowing other users, LIKE other posts, among others. It is an application implemented with the MERN stack.",
+	"Wo_Role0": "Full Stack Project",
 
 	"Wo_Name1": "To Do List",
-	"Wo_Description1": "Application to list a user's tasks. Typical CRUD functionalities were implemented to manage tasks. MongoDB was used to manage the Database.",
-	"Wo_Role1": "Full-Stack Project",
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-	"Wo_Name0": "Blog",
-	"Wo_Description0": "Application with some of the typical functionalities of a Blog, among which are: creating a publication by a user, listing the publications of all users, and user authentication.",
-	"Wo_Role0": "Full-Stack Project",
+	"Wo_Description1": "To Do List is an application with typical functionalities; such as creating, reading, updating, and deleting tasks. It is an application implemented with the MERN stack.",
+	"Wo_Role1": "Full Stack Project",
 
 	"Wo_Name2": "To Do List",
-	"Wo_Description2": "Application to list a user's tasks. Typical CRUD functionalities were implemented to manage tasks. PostgreSQL was used to manage the Database.",
-	"Wo_Role2": "Full-Stack Project",
+	"Wo_Description2": "This application is a Node.js and Express server to handle typical requests from a task management application. Functionalities such as creating, reading, updating, and deleting tasks were implemented on this server, which stores the data in a MongoDB database.",
+	"Wo_Role2": "Backend Project",
 
-	"Wo_Name3": "To Do List",
-	"Wo_Description3": "Application to list a user's tasks. Typical CRUD functionalities were implemented to manage tasks. The server was implemented in Django with SQLite as the Database management system.",
-	"Wo_Role3": "Full-Stack Project",
+	"Wo_Name3": "Blog",
+	"Wo_Description3": "Application with some of the typical functionalities of a Blog, among which are: creating a publication by a user, listing the publications of all users, and user authentication. This Blog application was implemented with the MERN stack.",
+	"Wo_Role3": "Full Stack Project",
 
-	"Wo_Name5": "Email Sending Server",
-	"Wo_Description5": "Implementation of a Node.js server to send emails.",
-	"Wo_Role5": "Backend Project",
+	"Wo_Name4": "Blog",
+	"Wo_Description4": "Server application to manage typical requests of a Blog application. This API handles requests such as post creation by a specific user, user authentication, and a list of user posts. API stores data in a MongoDB database.",
+	"Wo_Role4": "Backend Project",
 
-	"Wo_Name6": "Calculator",
-	"Wo_Description6": "Implementation of a calculator with multiple calculation functionalities.",
-	"Wo_Role6": "Frontend Project",
+	"Wo_Name5": "Booking App",
+	"Wo_Description5": "Application with typical functionalities of Hotel Reservations software. Functionalities such as login, booking a hotel, and listing hotels by different categories were implemented. The creation, reading, and deletion of users, hotels, and rooms are also handled. This application was developed on the MERN stack.",
+	"Wo_Role5": "Full Stack Project",
 
-	"Wo_Name7": "My Website 1.0",
-	"Wo_Description7": "Implementation of my Web Portfolio, which constitutes my personal website.",
-	"Wo_Role7": "Frontend Project",
+	"Wo_Name6": "Booking App",
+	"Wo_Description6": "Server application for managing requests, referring to Hotel Reservations software. This server handles requests such as user authentication, creation, reading, and deletion of users, hotels, and rooms, as well as hotel reservations by users and the listing of available hotels by category. This API stores data in a MongoDB database.",
+	"Wo_Role6": "Backend Project",
+
+	"Wo_Name7": "To Do List",
+	"Wo_Description7": "To Do List is an application to manage tasks. Functionalities such as creating, listing, updating, and deleting tasks were implemented. This software was developed with the PERN stack, storing the data in a PostgreSQL database.",
+	"Wo_Role7": "Full Stack Project",
 
 	"Wo_Name8": "To Do List",
-	"Wo_Description8": "Implementation of a task list with React.js.",
-	"Wo_Role8": "Frontend Project",
+	"Wo_Description8": "Node and Express server application to manage task creation, reading, updating, and deleting. The data is stored in a PostgreSQL database.",
+	"Wo_Role8": "Backend Project",
 
-	"Wo_Name9": "Dual language app",
-	"Wo_Description9": "Implementation of a dual language application.",
-	"Wo_Role9": "Frontend Project",
+	"Wo_Name9": "To Do List",
+	"Wo_Description9": "Task management application developed in Django and React. Functionalities such as creating, reading, updating, and deleting tasks were implemented. This software stores data in a SQLite3 database.",
+	"Wo_Role9": "Full Stack Project",
 
-	"Wo_Name10": "Tic Tac Toe Game",
-	"Wo_Description10": "Implementation of the Tic Tac Toe game.",
-	"Wo_Role10": "Frontend Project",
+	"Wo_Name10": "To Do List",
+	"Wo_Description10": "Django server application for task management. Functionalities such as creating, reading, updating, and deleting tasks were developed. The data is stored in a SQLite3 database.",
+	"Wo_Role10": "Backend Project",
 
-	"Wo_Name11": "Movie Search Application",
-	"Wo_Description11": "Implementation of a movie search engine.",
-	"Wo_Role11": "Frontend Project",
-
-	"Wo_Name12": "Shopping Cart",
-	"Wo_Description12": "Implementation of an application with a shopping cart.",
+	"Wo_Name11": "Send Emails",
+	"Wo_Description11": "Server application created with Node and Express for sending emails.",
+	"Wo_Role11": "Backend Project",
+	
+	"Wo_Name12": "Calculator",
+	"Wo_Description12": "Implementation of a calculator with React.",
 	"Wo_Role12": "Frontend Project",
 
-	"Wo_Name13": "To Do List",
-	"Wo_Description13": "Implementation of the server to list a user's tasks. Typical CRUD functionalities were implemented to manage tasks. MongoDB was used to manage the Database.",
-	"Wo_Role13": "Backend Project",
+	"Wo_Name13": "Web with Language Change",
+	"Wo_Description13": "Implementation of a website with language change.",
+	"Wo_Role13": "Frontend Project",
 
-	"Wo_Name14": "Blog",
-	"Wo_Description14": "Implementation of a Blog server to manage users and their respective publications.",
-	"Wo_Role14": "Backend Project",
+	"Wo_Name14": "Tic Tac Toe game",
+	"Wo_Description14": "Implementation of the Tic Tac Toe game.",
+	"Wo_Role14": "Frontend Project",
 
-	"Wo_Name15": "To Do List",
-	"Wo_Description15": "Server implementation to manage a list of tasks stored in a Database, managed with PostgreSQL.",
-	"Wo_Role15": "Backend Project",
+	"Wo_Name15": "Movie Search App",
+	"Wo_Description15": "The application is implemented in React, which consumes a movie API to filter it by their names.",
+	"Wo_Role15": "Frontend Project",
 
-	"Wo_Name16": "To Do List",
-	"Wo_Description16": "Server implementation to manage a list of tasks stored in a Database, managed with Django.",
-	"Wo_Role16": "Backend Project",
+	"Wo_Name16": "Shopping App",
+	"Wo_Description16": "Implementation of an application in React that works as an online shopping cart.",
+	"Wo_Role16": "Frontend Project",
 
-	"Wo_Name17": "My Website 1.0",
-	"Wo_Description17": "Design of the first version of my web portfolio.",
-	"Wo_Role17": "Design Project",
+	"Wo_Name17": "My Website 1.0 ",
+	"Wo_Description17": "Implementation of the first version of my online project portfolio.",
+	"Wo_Role17": "Frontend Project",
 
-	"Wo_Name18": "Click Counter",
-	"Wo_Description18": "Implementation of a Click Counter where important React.js concepts such as working with components were applied.",
-	"Wo_Role18": "Frontend Project",
-
-	"Wo_Name19": "My Business Card",
-	"Wo_Description19": "Design of My Business Card.",
-	"Wo_Role19": "Design Project",
-
-	"Wo_Name20": "Booking API App",
-	"Wo_Description20": "Node.js server that handles requests for hotel reservations and stores the data in a MongoDB database.",
-	"Wo_Role20": "Backend Project",
-
-	"Wo_Name21": "Booking App",
-	"Wo_Description21": "Booking App is a Full-Stack project in which I implemented some of the most important functionalities typical of hotel reservation software. Using the MERN stack, I implemented communication between the API, Backend, and Frontend projects for the Booking App.",
-	"Wo_Role21": "Full-Stack Project",
+	"Wo_Name18": "My Website 1.0 ",
+	"Wo_Description18": "Design of the first version of my online project portfolio.",
+	"Wo_Role18": "Design Project",
 
 	"Pa_Previous": "Previous",
 	"Pa_Next": "Next",

@@ -18,9 +18,9 @@ import Project17 from '../images/works/03-Frontend/(05) shopping_app/screenshot 
 import Project18 from '../images/works/03-Frontend/(06) annielvalle96_v1.0/screenshot (02).png'
 import Project19 from '../images/works/04-Design/(01) annielvalle96_v1.0_design/screenshot (01).png'
 
-
 const jsonData = [
   {
+    // Sociopedia.
     id: 0,
     type: 'full-stack',
     image: [{ id: 0, url: Project01, cover: true }],
@@ -123,7 +123,7 @@ const jsonData = [
     role: 'Wo_Role',
     link: '',
     github: 'https://github.com/annielvalle96/to_do_list/tree/main/api',
-    builtWith: [{ id: 0, name: 'PosgreSQL' }, { id: 1, name: 'ExpressJS'}, { id: 2, name: 'NodeJS' }]
+    builtWith: [{ id: 0, name: 'PosgreSQL' }, { id: 1, name: 'ExpressJS' }, { id: 2, name: 'NodeJS' }]
   },
   {
     // To Do List.
@@ -159,7 +159,7 @@ const jsonData = [
     role: 'Wo_Role',
     link: '',
     github: 'https://github.com/annielvalle96/send_emails',
-    builtWith: [{ id: 0, name: 'ExpressJS'}, { id: 1, name: 'NodeJS' }]
+    builtWith: [{ id: 0, name: 'ExpressJS' }, { id: 1, name: 'NodeJS' }]
   },
   {
     // Calculator.
