@@ -7,7 +7,7 @@
 	"N_buttonResume": "Resume",
 
 	"MC_homeText1": "Hello! My name is",
-	"MC_homeText2": "Anniel Valle Valera",
+	"MC_homeText2": "Anniel Valle",
 	"MC_homeText3": "I build things for the web.",
 	"MC_homeText4": "I am a Web Developer capable of creating complete web applications from scratch. I know a wide range of web and Internet technologies. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. I am meticulous in attention to detail, especially when working with design specifications.",
 	"MC_ButtonMoreAboutMe": "More About Me",
@@ -17,7 +17,7 @@
 	"A_Title1": "About Me",
 	"A_Title2_1": "Personal ",
 	"A_Title2_2": "Details",
-	"A_Text1": "Hello! My name is Anniel Valle Valera. ",
+	"A_Text1": "Hello! My name is Anniel Valle. ",
 	"A_Text1_1": "I am a Web Developer.",
 	"A_Text2": "I am a Web Developer capable of creating complete web applications from scratch. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. My interest in web development began in 2015, when I began my studies as a Software Engineer at the Central University “Marta Abreu” de Las Villas, Cuba; a career that sparked my interest in creating computer applications. Then I became much more interested in web programming because I find it a fascinating world, and it has a great impact on our lives.",
 	"A_Text3": "I have studied application development technologies such as: • Programming Languages: Java, JavaScript, HTML, CSS, Python, SQL, PHP. • Libraries & Frameworks: React, Node, Express, Django, Vue, Symfony. • Tools & Platforms: Git, GitHub, GitLab, Netlify, Vercel, MongoDB, PostgreSQL, Docker, Figma, Postman, Thunder Client. • Project Management Methodology: Scrum.",
@@ -51,19 +51,19 @@
 	"Wo_Description0": "Sociopedia is a software that simulates some of the most important functionalities of a social network application. Typical functionalities such as user authentication, following or unfollowing other users, LIKE other posts, among others. It is an application implemented with the MERN stack.",
 	"Wo_Role0": "Full Stack Project",
 
-	"Wo_Name1": "To Do List",
+	"Wo_Name1": "To Do List App",
 	"Wo_Description1": "To Do List is an application with typical functionalities; such as creating, reading, updating, and deleting tasks. It is an application implemented with the MERN stack.",
 	"Wo_Role1": "Full Stack Project",
 
-	"Wo_Name2": "To Do List",
+	"Wo_Name2": "To Do List API",
 	"Wo_Description2": "This application is a Node.js and Express server to handle typical requests from a task management application. Functionalities such as creating, reading, updating, and deleting tasks were implemented on this server, which stores the data in a MongoDB database.",
 	"Wo_Role2": "Backend Project",
 
-	"Wo_Name3": "Blog",
+	"Wo_Name3": "Blog App",
 	"Wo_Description3": "Application with some of the typical functionalities of a Blog, among which are: creating a publication by a user, listing the publications of all users, and user authentication. This Blog application was implemented with the MERN stack.",
 	"Wo_Role3": "Full Stack Project",
 
-	"Wo_Name4": "Blog",
+	"Wo_Name4": "Blog API",
 	"Wo_Description4": "Server application to manage typical requests of a Blog application. This API handles requests such as post creation by a specific user, user authentication, and a list of user posts. API stores data in a MongoDB database.",
 	"Wo_Role4": "Backend Project",
 
@@ -71,27 +71,27 @@
 	"Wo_Description5": "Application with typical functionalities of Hotel Reservations software. Functionalities such as login, booking a hotel, and listing hotels by different categories were implemented. The creation, reading, and deletion of users, hotels, and rooms are also handled. This application was developed on the MERN stack.",
 	"Wo_Role5": "Full Stack Project",
 
-	"Wo_Name6": "Booking App",
+	"Wo_Name6": "Booking App API",
 	"Wo_Description6": "Server application for managing requests, referring to Hotel Reservations software. This server handles requests such as user authentication, creation, reading, and deletion of users, hotels, and rooms, as well as hotel reservations by users and the listing of available hotels by category. This API stores data in a MongoDB database.",
 	"Wo_Role6": "Backend Project",
 
-	"Wo_Name7": "To Do List",
+	"Wo_Name7": "To Do List App",
 	"Wo_Description7": "To Do List is an application to manage tasks. Functionalities such as creating, listing, updating, and deleting tasks were implemented. This software was developed with the PERN stack, storing the data in a PostgreSQL database.",
 	"Wo_Role7": "Full Stack Project",
 
-	"Wo_Name8": "To Do List",
+	"Wo_Name8": "To Do List API",
 	"Wo_Description8": "Node and Express server application to manage task creation, reading, updating, and deleting. The data is stored in a PostgreSQL database.",
 	"Wo_Role8": "Backend Project",
 
-	"Wo_Name9": "To Do List",
+	"Wo_Name9": "To Do List App",
 	"Wo_Description9": "Task management application developed in Django and React. Functionalities such as creating, reading, updating, and deleting tasks were implemented. This software stores data in a SQLite3 database.",
 	"Wo_Role9": "Full Stack Project",
 
-	"Wo_Name10": "To Do List",
+	"Wo_Name10": "To Do List API",
 	"Wo_Description10": "Django server application for task management. Functionalities such as creating, reading, updating, and deleting tasks were developed. The data is stored in a SQLite3 database.",
 	"Wo_Role10": "Backend Project",
 
-	"Wo_Name11": "Send Emails",
+	"Wo_Name11": "Email Sending App",
 	"Wo_Description11": "Server application created with Node and Express for sending emails.",
 	"Wo_Role11": "Backend Project",
 	
@@ -99,11 +99,11 @@
 	"Wo_Description12": "Implementation of a calculator with React.",
 	"Wo_Role12": "Frontend Project",
 
-	"Wo_Name13": "Web with Language Change",
+	"Wo_Name13": "Language Changer App",
 	"Wo_Description13": "Implementation of a website with language change.",
 	"Wo_Role13": "Frontend Project",
 
-	"Wo_Name14": "Tic Tac Toe game",
+	"Wo_Name14": "Tic Tac Toe Game",
 	"Wo_Description14": "Implementation of the Tic Tac Toe game.",
 	"Wo_Role14": "Frontend Project",
 
@@ -116,7 +116,7 @@
 	"Wo_Role16": "Frontend Project",
 
 	"Wo_Name17": "My Website 1.0 ",
-	"Wo_Description17": "Implementation of the first version of my online project portfolio.",
+	"Wo_Description17": "This is my Portfolio Web. Web, in which I have some of the most interesting projects that I made, my technical skills, information about me, and several ways to get in touch with me.",
 	"Wo_Role17": "Frontend Project",
 
 	"Wo_Name18": "My Website 1.0 ",

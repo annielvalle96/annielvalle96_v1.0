@@ -7,7 +7,7 @@
 	"N_buttonResume": "Resúmen",
 
 	"MC_homeText1": "¡Hola! Mi nombre es",
-	"MC_homeText2": "Anniel Valle Valera",
+	"MC_homeText2": "Anniel Valle",
 	"MC_homeText3": "Construyo cosas para la web.",
 	"MC_homeText4": "Soy un Desarrollador Web capaz de crear aplicaciones web completas desde cero. Tengo conocimientos sobre una amplia gama de tecnologías web e Internet. Me apasiona crear software resistente, escalable y mantenible. Me entusiasma mejorar las experiencias de los usuarios, tanto internos como externos. Soy meticuloso en la atención a los detalles, especialmente cuando trabajo con especificaciones de diseño.",
 	"MC_ButtonMoreAboutMe": "Más Sobre Mi",
@@ -17,7 +17,7 @@
 	"A_Title1": "Sobre Mi",
 	"A_Title2_1": "Detalles ",
 	"A_Title2_2": "Personales",
-	"A_Text1": "¡Hola! Mi nombre es Anniel Valle Valera. ",
+	"A_Text1": "¡Hola! Mi nombre es Anniel Valle. ",
 	"A_Text1_1": "Soy Desarrollador Web.",
 	"A_Text2": "Soy un Desarrollador Web capaz de crear aplicaciones web completas desde cero. Me apasiona crear software resiliente, escalable y mantenible. Me apasiona mejorar las experiencias de los usuarios, tanto internos como externos. Mi interés por el desarrollo web comenzó en el año 2015, cuando comencé mis estudios como Ingeniero de Software en la Universidad Central “Marta Abreu” de Las Villas, Cuba; una carrera que despertó mi interés en la creación de aplicaciones informáticas. Luego me interesé mucho más en la programación web porque me parece un mundo fascinante y tiene un gran impacto en nuestras vidas.",
 	"A_Text3": "He estudiado tecnologías de desarrollo de aplicaciones como: • Lenguajes de programación: Java, JavaScript, HTML, CSS, Python, SQL, PHP. • Bibliotecas y Frameworks: React, Node, Express, Django, Vue, Symfony. • Herramientas y Plataformas: Git, GitHub, GitLab, Netlify, Vercel, MongoDB, PostgreSQL, Docker, Figma, Postman, Thunder Client. • Metodología de Gestión de Proyectos: Scrum.",
@@ -51,47 +51,47 @@
 	"Wo_Description0": "Sociopedia es un software que simula algunas de las funcionalidades más importantes de una aplicación de red social. Funcionalidades típicas como autenticación de usuario, seguir o dejar de seguir a otros usuarios, dar ME GUSTA a otras publicaciones, entre otras. Es una aplicación implementada con la pila MERN.",
 	"Wo_Role0": "Proyecto Full Stack",
 	
-	"Wo_Name1": "To Do List",
-	"Wo_Description1": "To Do List es una aplicación con funcionalidades típicas; como crear, leer, actualizar y eliminar tareas. Es una aplicación implementada con la pila MERN.",
+	"Wo_Name1": "Lista de Tareas",
+	"Wo_Description1": "Lista de Tareas es una aplicación con funcionalidades típicas; como crear, leer, actualizar y eliminar tareas. Es una aplicación implementada con la pila MERN.",
 	"Wo_Role1": "Proyecto Full Stack",
 	
-	"Wo_Name2": "To Do List",
+	"Wo_Name2": "API de Lista de Tareas",
 	"Wo_Description2": "Esta aplicación es un servidor Node.js y Express para manejar solicitudes típicas de una aplicación de administración de tareas. En este servidor se implementaron funcionalidades como creación, lectura, actualización y eliminación de tareas, el cual almacena los datos en una base de datos MongoDB.",
 	"Wo_Role2": "Proyecto Backend",
 	
-	"Wo_Name3": "Blog",
+	"Wo_Name3": "Aplicación de Blog",
 	"Wo_Description3": "Aplicación con algunas de las funcionalidades típicas de un Blog, entre las que se encuentran: crear una publicación por parte de un usuario, listar las publicaciones de todos los usuarios y autenticación de usuarios. Esta aplicación de Blog se implementó con la pila MERN.",
 	"Wo_Role3": "Proyecto Full Stack",
 	
-	"Wo_Name4": "Blog",
+	"Wo_Name4": "API de Blog",
 	"Wo_Description4": "Aplicación de servidor para gestionar solicitudes típicas de una aplicación Blog. Esta API maneja solicitudes como la creación de publicaciones por parte de un usuario específico, la autenticación de usuarios y una lista de publicaciones de usuarios. API almacena datos en una base de datos MongoDB.",
 	"Wo_Role4": "Proyecto Backend",
 	
-	"Wo_Name5": "Booking App",
+	"Wo_Name5": "Aplicación de Reservas",
 	"Wo_Description5": "Aplicación con funcionalidades típicas del software de Reservas Hoteleras. Se implementaron funcionalidades como iniciar sesión, reservar un hotel y listar hoteles por diferentes categorías. También se gestiona la creación, lectura y eliminación de usuarios, hoteles y habitaciones. Esta aplicación fue desarrollada en la pila MERN.",
 	"Wo_Role5": "Proyecto Full Stack",
 	
-	"Wo_Name6": "Booking App",
+	"Wo_Name6": "API de la Aplicación de Reservas",
 	"Wo_Description6": "Aplicación de servidor para la gestión de solicitudes, referente al software de Reservas de Hoteles. Este servidor maneja solicitudes como autenticación de usuarios, creación, lectura y eliminación de usuarios, hoteles y habitaciones, así como reservas de hoteles por parte de los usuarios y listado de hoteles disponibles por categoría. Esta API almacena datos en una base de datos MongoDB.",
 	"Wo_Role6": "Proyecto Backend",
 	
-	"Wo_Name7": "To Do List",
-	"Wo_Description7": "To Do List es una aplicación para gestionar tareas. Se implementaron funcionalidades como crear, enumerar, actualizar y eliminar tareas. Este software fue desarrollado con el stack PERN, almacenando los datos en una base de datos PostgreSQL.",
+	"Wo_Name7": "Lista de Tareas",
+	"Wo_Description7": "Lista de Tareas es una aplicación para gestionar tareas. Se implementaron funcionalidades como crear, enumerar, actualizar y eliminar tareas. Este software fue desarrollado con el stack PERN, almacenando los datos en una base de datos PostgreSQL.",
 	"Wo_Role7": "Proyecto Full Stack",
 	
-	"Wo_Name8": "To Do List",
+	"Wo_Name8": "API de Lista de Tareas",
 	"Wo_Description8": "Aplicación de servidor Node y Express para gestionar la creación, lectura, actualización y eliminación de tareas. Los datos se almacenan en una base de datos PostgreSQL.",
 	"Wo_Role8": "Proyecto Backend",
 	
-	"Wo_Name9": "To Do List",
+	"Wo_Name9": "Lista de Tareas",
 	"Wo_Description9": "Aplicación de gestión de tareas desarrollada en Django y React. Se implementaron funcionalidades como creación, lectura, actualización y eliminación de tareas. Este software almacena datos en una base de datos SQLite3.",
 	"Wo_Role9": "Proyecto Full Stack",
 	
-	"Wo_Name10": "To Do List",
+	"Wo_Name10": "API de Lista de Tareas",
 	"Wo_Description10": "Aplicación de servidor Django para gestión de tareas. Se desarrollaron funcionalidades como creación, lectura, actualización y eliminación de tareas. Los datos se almacenan en una base de datos SQLite3.",
 	"Wo_Role10": "Proyecto Backend",
 
-	"Wo_Name11": "Envío de Correos Electrónicos",
+	"Wo_Name11": "API de Envío de Correos Electrónicos",
 	"Wo_Description11": "Aplicación de servidor creada con Node y Express para envíos de correos electrónicos.",
 	"Wo_Role11": "Proyecto Backend",
 
@@ -99,11 +99,11 @@
 	"Wo_Description12": "Implementación de una calculadora con React.",
 	"Wo_Role12": "Proyecto Frontend",
 
-	"Wo_Name13": "Web con Cambio de Idiomas",
+	"Wo_Name13": "Aplicación de Cambio de Idiomas",
 	"Wo_Description13": "Implementación de un sitio web con cambio de idioma.",
 	"Wo_Role13": "Proyecto Frontend",
 
-	"Wo_Name14": "Juego de Tic Tac Toe",
+	"Wo_Name14": "Juego de Tres en Raya",
 	"Wo_Description14": "Implementación del juego de Tic Tac Toe.",
 	"Wo_Role14": "Proyecto Frontend",
 
@@ -116,7 +116,7 @@
 	"Wo_Role16": "Proyecto Frontend",
 
 	"Wo_Name17": "Mi Sitio Web 1.0",
-	"Wo_Description17": "Implementación de la primera versión de mi portafolio de proyectos en línea.",
+	"Wo_Description17": "Este es mi Portafolio Web. Web, en la que tengo algunos de los proyectos más interesantes que realicé, mis habilidades técnicas, información sobre mí y varias formas de ponerse en contacto conmigo.",
 	"Wo_Role17": "Proyecto Frontend",
 
 	"Wo_Name18": "Mi Sitio Web 1.0",

@@ -25,7 +25,7 @@ export function Footer () {
             <li className='N_link'><Link to='contact-us' spy smooth offset={0} duration={50}><span>05.</span><FormattedMessage id='N_menuContactUs' defaultMessage='' /></Link></li>
           </ul>
           <div className='Fo__CopyIight'>
-            <small>&copy; Anniel Valle Valera. <FormattedMessage id='Fo_CopyRightText' defaultMessage='' /></small>
+            <small>&copy; Anniel Valle. <FormattedMessage id='Fo_CopyRightText' defaultMessage='' /></small>
           </div>
         </div>
       </div>
