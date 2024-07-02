@@ -1,20 +1,20 @@
 {
 	"N_menuHome": "Inicio",
-	"N_menuAbout": "Sobre Mi",
+	"N_menuAbout": "Sobre Mí",
 	"N_menuSkill": "Habilidades",
 	"N_menuWork": "Trabajos",
 	"N_menuContactUs": "Contáctenos",
-	"N_buttonResume": "Resúmen",
-
+	"N_buttonResume": "Resumen",
+	
 	"MC_homeText1": "¡Hola! Mi nombre es",
 	"MC_homeText2": "Anniel Valle",
 	"MC_homeText3": "Construyo cosas para la web.",
 	"MC_homeText4": "Soy un Desarrollador Web capaz de crear aplicaciones web completas desde cero. Tengo conocimientos sobre una amplia gama de tecnologías web e Internet. Me apasiona crear software resistente, escalable y mantenible. Me entusiasma mejorar las experiencias de los usuarios, tanto internos como externos. Soy meticuloso en la atención a los detalles, especialmente cuando trabajo con especificaciones de diseño.",
-	"MC_ButtonMoreAboutMe": "Más Sobre Mi",
+	"MC_ButtonMoreAboutMe": "Más Sobre Mí",
 	"MC_Phrase": "“No importa cuán lento vayas, mientras no te detengas”.",
 	"MC_PhraseAuthor": "Confucio",
-
-	"A_Title1": "Sobre Mi",
+	
+	"A_Title1": "Sobre Mí",
 	"A_Title2_1": "Detalles ",
 	"A_Title2_2": "Personales",
 	"A_Text1": "¡Hola! Mi nombre es Anniel Valle. ",
@@ -28,7 +28,7 @@
 	"A_buttonResume": "Descargar CV",
 	"Email": "Envíeme un mensaje",
 	"Whatsapp": "Envíeme un mensaje",
-
+	
 	"Sk_Title1": "Habilidades",
 	"Sk_Title2_1": "¿En qué ",
 	"Sk_Title2_2": "puedo trabajar?",
@@ -36,13 +36,13 @@
 	"Sk_Text2": "Desarrollo del backend", 
 	"Sk_Text3": "Diseño de UI/UX", 
 	"Sk_Text4": "Herramientas",
-
+	
 	"F_Filter1": "Todos",
 	"F_Filter2": "Full Stack",
 	"F_Filter3": "Frontend",
 	"F_Filter4": "Backend",
 	"F_Filter5": "Diseño",
-
+	
 	"Wo_Title1": "Trabajos",
 	"Wo_Title2_1": "Últimos ",
 	"Wo_Title2_2": "Trabajos",
@@ -90,49 +90,49 @@
 	"Wo_Name10": "API de Lista de Tareas",
 	"Wo_Description10": "Aplicación de servidor Django para gestión de tareas. Se desarrollaron funcionalidades como creación, lectura, actualización y eliminación de tareas. Los datos se almacenan en una base de datos SQLite3.",
 	"Wo_Role10": "Proyecto Backend",
-
+	
 	"Wo_Name11": "API de Envío de Correos Electrónicos",
 	"Wo_Description11": "Aplicación de servidor creada con Node y Express para envíos de correos electrónicos.",
 	"Wo_Role11": "Proyecto Backend",
-
+	
 	"Wo_Name12": "Calculadora",
 	"Wo_Description12": "Implementación de una calculadora con React.",
 	"Wo_Role12": "Proyecto Frontend",
-
+	
 	"Wo_Name13": "Aplicación de Cambio de Idiomas",
 	"Wo_Description13": "Implementación de un sitio web con cambio de idioma.",
 	"Wo_Role13": "Proyecto Frontend",
-
+	
 	"Wo_Name14": "Juego de Tres en Raya",
 	"Wo_Description14": "Implementación del juego de Tic Tac Toe.",
 	"Wo_Role14": "Proyecto Frontend",
-
+	
 	"Wo_Name15": "Aplicación de Búsqueda de Películas",
 	"Wo_Description15": "La aplicación está implementada en React, la cual consume una API de películas para filtrarlas por sus nombres.",
 	"Wo_Role15": "Proyecto Frontend",
-
+	
 	"Wo_Name16": "Aplicación de Compras",
 	"Wo_Description16": "Implementación de una aplicación en React que funciona como un carrito de compras en línea.",
 	"Wo_Role16": "Proyecto Frontend",
-
+	
 	"Wo_Name17": "Mi Sitio Web 1.0",
 	"Wo_Description17": "Este es mi Portafolio Web. Web, en la que tengo algunos de los proyectos más interesantes que realicé, mis habilidades técnicas, información sobre mí y varias formas de ponerse en contacto conmigo.",
 	"Wo_Role17": "Proyecto Frontend",
-
+	
 	"Wo_Name18": "Mi Sitio Web 1.0",
 	"Wo_Description18": "Diseño de la primera versión de mi portafolio de proyectos en línea.",
 	"Wo_Role18": "Proyecto Diseño",
-
+	
 	"Pa_Previous": "Anterior",
 	"Pa_Next": "Siguiente",
-
+	
 	"CU_Title1": "Contáctenos",
-	"CU_Title2_1": "Ponerse e",
-	"CU_Title2_2": "n contacto",
+	"CU_Title2_1": "Ponerse en",
+	"CU_Title2_2": " contacto",
 	"CU_Email": "Correo",
 	"CU_Whatsapp": "WhatsApp",
 	"CU_FormButton": "Envíeme un mensaje",
-
+	
 	"CU_Name": "Nombre: ",
 	"CU_Error1": "Solo es permitido escribir de 1 a 40 caracteres alfabético, con o sin acentuación y espacios.",
 	"CU_Mail": "Correo: ",
@@ -142,9 +142,9 @@
 	"CU_Error": "Error: ",
 	"CU_Error4": "Debes completar todos los campos correctamente.",
 	"CU_Done": "¡Mensaje enviado correctamente!",
-
+	
 	"Fo_CopyRightText": "Todos los derechos reservados.",
-
+	
 	"PNF_buttonResume": "Ir a Inicio",
 	"PNF_PageNotFound": "Página No Encontrada"
-}
+	}
