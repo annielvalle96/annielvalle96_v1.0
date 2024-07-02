@@ -16,7 +16,7 @@
 	
 	"A_Title1": "Sobre Mí",
 	"A_Title2_1": "Detalles ",
-	"A_Title2_2": "Personales",
+	"A_Title2_2": "personales",
 	"A_Text1": "¡Hola! Mi nombre es Anniel Valle. ",
 	"A_Text1_1": "Soy Desarrollador Web.",
 	"A_Text2": "Soy un Desarrollador Web capaz de crear aplicaciones web completas desde cero. Me apasiona crear software resiliente, escalable y mantenible. Me apasiona mejorar las experiencias de los usuarios, tanto internos como externos. Mi interés por el desarrollo web comenzó en el año 2015, cuando comencé mis estudios como Ingeniero de Software en la Universidad Central “Marta Abreu” de Las Villas, Cuba; una carrera que despertó mi interés en la creación de aplicaciones informáticas. Luego me interesé mucho más en la programación web porque me parece un mundo fascinante y tiene un gran impacto en nuestras vidas.",
@@ -45,7 +45,7 @@
 	
 	"Wo_Title1": "Trabajos",
 	"Wo_Title2_1": "Últimos ",
-	"Wo_Title2_2": "Trabajos",
+	"Wo_Title2_2": "trabajos",
 	
 	"Wo_Name0": "Sociopedia",
 	"Wo_Description0": "Sociopedia es un software que simula algunas de las funcionalidades más importantes de una aplicación de red social. Funcionalidades típicas como autenticación de usuario, seguir o dejar de seguir a otros usuarios, dar ME GUSTA a otras publicaciones, entre otras. Es una aplicación implementada con la pila MERN.",
