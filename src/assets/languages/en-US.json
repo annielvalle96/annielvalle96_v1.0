@@ -9,10 +9,10 @@
 	"MC_homeText1": "Hello! My name is",
 	"MC_homeText2": "Anniel Valle",
 	"MC_homeText3": "I build things for the web.",
-	"MC_homeText4": "I am a Web Developer capable of creating complete web applications from scratch. I know a wide range of web and Internet technologies. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. I am meticulous in attention to detail, especially when working with design specifications.",
+	"MC_homeText4": "I am a Web Developer capable of creating complete web applications from scratch. I know a wide range of webs and Internet technologies. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. I am meticulous in attention to detail, especially when working with design specifications.",
 	"MC_ButtonMoreAboutMe": "More About Me",
 	"MC_Phrase": "“It doesn't matter how slow you go, as long as you don't stop.”",
-	"MC_PhraseAuthor": "Confucio",
+	"MC_PhraseAuthor": "Confucius",
 
 	"A_Title1": "About Me",
 	"A_Title2_1": "Personal ",
@@ -51,11 +51,11 @@
 	"Wo_Description0": "Sociopedia is a software that simulates some of the most important functionalities of a social network application. Typical functionalities such as user authentication, following or unfollowing other users, LIKE other posts, among others. It is an application implemented with the MERN stack.",
 	"Wo_Role0": "Full Stack Project",
 
-	"Wo_Name1": "To Do List App",
-	"Wo_Description1": "To Do List is an application with typical functionalities; such as creating, reading, updating, and deleting tasks. It is an application implemented with the MERN stack.",
+	"Wo_Name1": "To-Do List App",
+	"Wo_Description1": "To-Do List is an application with typical functionalities; such as creating, reading, updating, and deleting tasks. It is an application implemented with the MERN stack.",
 	"Wo_Role1": "Full Stack Project",
 
-	"Wo_Name2": "To Do List API",
+	"Wo_Name2": "To-Do List API",
 	"Wo_Description2": "This application is a Node.js and Express server to handle typical requests from a task management application. Functionalities such as creating, reading, updating, and deleting tasks were implemented on this server, which stores the data in a MongoDB database.",
 	"Wo_Role2": "Backend Project",
 
@@ -75,19 +75,19 @@
 	"Wo_Description6": "Server application for managing requests, referring to Hotel Reservations software. This server handles requests such as user authentication, creation, reading, and deletion of users, hotels, and rooms, as well as hotel reservations by users and the listing of available hotels by category. This API stores data in a MongoDB database.",
 	"Wo_Role6": "Backend Project",
 
-	"Wo_Name7": "To Do List App",
-	"Wo_Description7": "To Do List is an application to manage tasks. Functionalities such as creating, listing, updating, and deleting tasks were implemented. This software was developed with the PERN stack, storing the data in a PostgreSQL database.",
+	"Wo_Name7": "To-Do List App",
+	"Wo_Description7": "To-Do List is an application to manage tasks. Functionalities such as creating, listing, updating, and deleting tasks were implemented. This software was developed with the PERN stack, storing the data in a PostgreSQL database.",
 	"Wo_Role7": "Full Stack Project",
 
-	"Wo_Name8": "To Do List API",
+	"Wo_Name8": "To-Do List API",
 	"Wo_Description8": "Node and Express server application to manage task creation, reading, updating, and deleting. The data is stored in a PostgreSQL database.",
 	"Wo_Role8": "Backend Project",
 
-	"Wo_Name9": "To Do List App",
+	"Wo_Name9": "To-Do List App",
 	"Wo_Description9": "Task management application developed in Django and React. Functionalities such as creating, reading, updating, and deleting tasks were implemented. This software stores data in a SQLite3 database.",
 	"Wo_Role9": "Full Stack Project",
 
-	"Wo_Name10": "To Do List API",
+	"Wo_Name10": "To-Do List API",
 	"Wo_Description10": "Django server application for task management. Functionalities such as creating, reading, updating, and deleting tasks were developed. The data is stored in a SQLite3 database.",
 	"Wo_Role10": "Backend Project",
 
@@ -145,6 +145,6 @@
 
 	"Fo_CopyRightText": "All rights reserved.",
 
-	"PNF_buttonResume": "Go to Home",
+	"PNF_buttonResume": "Go Home",
 	"PNF_PageNotFound": "Page not found"
 }
